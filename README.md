@@ -19,7 +19,7 @@ This README covers:
 
 # 1. Gradient Descent
 
-## 📖 Theory
+## Theory
 
 Gradient Descent is an **optimization algorithm** used to minimize a loss or cost function.
 
