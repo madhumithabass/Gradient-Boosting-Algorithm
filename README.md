@@ -1,6 +1,6 @@
 # Gradient Boosting Algorithms
 
-## 📌 Overview
+## Overview
 
 Gradient Boosting is an **ensemble machine learning technique** that combines multiple weak learners, usually **Decision Trees**, to build a strong predictive model.
 
